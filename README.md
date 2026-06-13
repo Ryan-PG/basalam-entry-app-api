@@ -7,6 +7,20 @@ A production-ready RESTful backend API for a Feedback Board system, built with P
 
 ---
 
+## Screenshots
+
+| Public Feedback Form | Feedback Submitted |
+| :---: | :---: |
+| ![Feedback Form](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Form.png) | ![Feedback Submitted](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Submitted.png) |
+| **Feedback Page** | **Confirm Status Change Dialog** |
+| ![Feedback Page](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Page.png) | ![Confirm Status Change Dialog](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Confirm%20Status%20Change%20Dialog.png) |
+| **Admin Login** | **Admin Register** |
+| ![Admin Login](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Login.png) | ![Admin Register](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Register.png) |
+| **Admin Overview** | **Admin Feedbacks** |
+| ![Admin Overview](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Overview.png) | ![Admin Feedbacks](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Feedbacks.png) |
+
+---
+
 ## 1. Local Setup & Execution Guide
 
 ### Prerequisites
