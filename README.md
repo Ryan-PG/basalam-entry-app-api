@@ -11,7 +11,7 @@ A production-ready RESTful backend API for a Feedback Board system, built with P
 
 | Public Feedback Form | Feedback Submitted |
 | :---: | :---: |
-| ![Feedback Form](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Form.png) | ![Feedback Submitted](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Submitted.png) |
+| ![Feedback Form](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Form.png) | ![Feedback Submitted](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Submitteds.png) |
 | **Feedback Page** | **Confirm Status Change Dialog** |
 | ![Feedback Page](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Page.png) | ![Confirm Status Change Dialog](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Confirm%20Status%20Change%20Dialog.png) |
 | **Admin Login** | **Admin Register** |
