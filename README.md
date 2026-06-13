@@ -2,6 +2,9 @@
 
 A production-ready RESTful backend API for a Feedback Board system, built with Python 3.12, FastAPI, SQLAlchemy 2.0 (Async), and SQLite. 
 
+> Note that this application also contains a UI in this repo:
+> https://github.com/Ryan-PG/basalam-entry-app-ui
+
 ---
 
 ## 1. Local Setup & Execution Guide
