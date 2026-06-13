@@ -7,19 +7,6 @@ A production-ready RESTful backend API for a Feedback Board system, built with P
 
 ---
 
-## Screenshots
-
-| Public Feedback Form | Feedback Submitted |
-| :---: | :---: |
-| ![Feedback Form](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Form.png) | ![Feedback Submitted](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Submitteds.png) |
-| **Feedback Page** | **Confirm Status Change Dialog** |
-| ![Feedback Page](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Page.png) | ![Confirm Status Change Dialog](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Confirm%20Status%20Change%20Dialog.png) |
-| **Admin Login** | **Admin Register** |
-| ![Admin Login](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Login.png) | ![Admin Register](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Register.png) |
-| **Admin Overview** | **Admin Feedbacks** |
-| ![Admin Overview](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Overview.png) | ![Admin Feedbacks](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Feedbacks.png) |
-
----
 
 ## 1. Local Setup & Execution Guide
 
@@ -94,18 +81,13 @@ As a senior engineer, my goal was to balance clean architecture principles with 
 
 ## 3. Application Screenshots
 
-*(Replace the placeholder descriptions below with the actual relative paths to your graphic elements once captured, or host them within a `/docs/images/` repository directory).*
+| Public Feedback Form | Feedback Submitted |
+| :---: | :---: |
+| ![Feedback Form](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Form.png) | ![Feedback Submitted](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Submitteds.png) |
+| **Feedback Page** | **Confirm Status Change Dialog** |
+| ![Feedback Page](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Feedback%20Page.png) | ![Confirm Status Change Dialog](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Confirm%20Status%20Change%20Dialog.png) |
+| **Admin Login** | **Admin Register** |
+| ![Admin Login](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Login.png) | ![Admin Register](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Register.png) |
+| **Admin Overview** | **Admin Feedbacks** |
+| ![Admin Overview](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Overview.png) | ![Admin Feedbacks](https://raw.githubusercontent.com/Ryan-PG/basalam-entry-app-ui/refs/heads/main/images/Admin%20Feedbacks.png) |
 
-### Main API Documentation (Swagger UI)
-
-Provides an overview of all available endpoints for public users and administrators.
-
-
-### Feedback Registration Section
-
-The public-facing endpoint and schema where users can submit their feedback (Title and Message).
-
-
-### Admin Status Dashboard
-
-The protected dashboard/endpoint where authenticated administrators can filter feedbacks and update their status (e.g., to `under_review` or `resolved`).
