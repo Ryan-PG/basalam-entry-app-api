@@ -28,6 +28,8 @@ COPY . .
 RUN chmod +x entrypoint.sh
 RUN chown -R appuser:appgroup /app
 
+RUN mkdir -p /app/data && chown -R appuser:appgroup /app
+
 USER appuser
 
 EXPOSE 8000
